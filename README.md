@@ -5,6 +5,8 @@ This demo presents a minimal agent architecture where an internal ***Perspective
 
 Developed within [CEAR Lab](https://hjpae.github.io/cear/), this demo serves as an intentionally minimal, diagnostic probe of internal drift beyond policy-level signals, illustrating why long-horizon alignment cannot be reduced to behavior alone.  
 
+This repository currently focuses on conceptual explanation with experimental results; implementation details may be released in later phases.  
+
 
 #### What this demo is (and is not)  
 
