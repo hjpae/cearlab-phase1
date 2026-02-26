@@ -1,4 +1,7 @@
 # CEAR Lab Project (Phase 1) - Demo 1  
+
+*Related paper accepted in AAAI 2026 Spring Symposium - Machine Consciousness. [Read preprint](https://arxiv.org/abs/2602.02902)*
+
 ### *A Minimal Demonstration of Internal Drift Beyond Policy.*  
 
 This demo presents a minimal agent architecture where an internal ***Perspective*** evolves independently of *Policy*, revealing internal dynamics invisible at the level of behavior. *Policy* selects actions; *Perspective* stabilizes what counts as a coherent world.  
@@ -6,9 +9,6 @@ This demo presents a minimal agent architecture where an internal ***Perspective
 Developed within [CEAR Lab](https://hjpae.github.io/cear/), this demo serves as an intentionally minimal, diagnostic probe of internal drift beyond policy-level signals, illustrating why long-horizon alignment cannot be reduced to behavior alone.  
 
 This repository currently focuses on conceptual explanation with experimental results; implementation details may be released in later phases.  
-
-
-#### What this demo is (and is not)  
 
 ***This demo is...***
 - A minimal simulation designed to probe internal perspective dynamics under environmental regime shifts  
