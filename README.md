@@ -1,4 +1,4 @@
-# CEAR Lab Project (Phase 1) - Demo 1  
+# CEAR Lab Project - Phase 1 Demo 
 
 *Related paper accepted in AAAI 2026 Spring Symposium - Machine Consciousness. [Read preprint](https://arxiv.org/abs/2602.02902)*
 
