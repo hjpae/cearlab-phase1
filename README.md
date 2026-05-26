@@ -1,6 +1,6 @@
 # CEAR Lab Project - Phase 1 Demo 
 
-*Related paper accepted in AAAI 2026 Spring Symposium - Machine Consciousness. [Read preprint](https://arxiv.org/abs/2602.02902)*
+*Related paper accepted in AAAI 2026 Spring Symposium - Machine Consciousness. [Read paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/42559/50119)*
 
 ### *A Minimal Demonstration of Internal Drift Beyond Policy.*  
 
